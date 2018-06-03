@@ -1,0 +1,2660 @@
+2018-03-04T23:41:57.347
+Chat Server is running
+A is connected
+B is connected
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:d
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:s
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:e
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:d
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:f
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:07
+From clientA:d
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:07
+From clientA:s
+Content:w,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:07
+From clientA:w
+C is connected
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:d
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:f
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:e
+Content:w,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:w
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:e
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+2018-03-04T23:44:39.817
+Chat Server is running
+2018-03-04T23:53:16.036
+Chat Server is running
+A is connected
+B is connected
+Content:ds,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-04 23:53:40
+From clientB:ds
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:40
+From clientB:f
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:40
+From clientB:d
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:29
+From clientA:s
+Content:a,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:29
+From clientA:a
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:29
+From clientA:e
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:29
+From clientA:e
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:29
+From clientA:d
+Content:u,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:53:29
+From clientA:u
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+2018-03-09T09:26:41.802
+Chat Server is running
+2018-03-09T09:27:35.523
+Chat Server is running
+2018-03-09T09:28:15.836
+Chat Server is running
+A is connected
+a is connected
+B is connected
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:28:28
+From clientA:d
+Content:,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-09 09:28:28
+From clientA:
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+
+B is disconnected
+Chat Server is disconnected
+
+a is disconnected
+Chat Server is disconnected
+2018-03-09T09:30:24.411
+Chat Server is running
+A is connected
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:s
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:d
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:f
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:e
+Content:3,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:3
+B is connected
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:57
+From clientB:d
+Content:3,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:57
+From clientB:3
+Content:t,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:t
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:e
+Content:w,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:w
+Content:q,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:q
+Content:v,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:v
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:f
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:d
+Content:w,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-09 09:30:38
+From clientA:w
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+2018-03-09T09:37:50.678
+Chat Server is running
+2018-03-09T09:45:53.230
+Chat Server is running
+2018-03-09T10:08:18.082
+Chat Server is running
+A is connected
+B is connected
+C is connected
+D is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-09 10:08:34
+From clientA:hi
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-09 10:08:34
+From clientA:hi
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-09 10:08:48
+From clientB:hi
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+D is disconnected
+Chat Server is disconnected
+2018-03-09T10:15:03.241
+Chat Server is running
+2018-03-19T23:04:59.670
+Chat Server is running
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+2018-03-21T13:17:18.345
+Chat Server is running
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+A is connected
+B is connected
+Content:sd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-21 13:20:06
+From clientA:sd
+Content:hkj,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-21 13:20:06
+From clientA:hkj
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+2018-03-21T22:14:03.217
+Chat Server is running
+2018-03-21T22:14:20.479
+Chat Server is running
+
+null is disconnected
+Chat Server is disconnected
+2018-03-21T22:23:28.775
+Chat Server is running
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+2018-03-21T22:44:48.980
+Chat Server is running
+C is connected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-21 22:54:34 is connected
+Content:null
+
+,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-21 22:54:34 is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+C is connected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+2018-03-22T17:49:31.006
+Chat Server is running
+,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-22 17:50:27 is connected
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-22 17:50:27
+From client,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-22 17:50:27:s
+Content:null
+
+,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-22 17:50:27 is disconnected
+Chat Server is disconnected
+2018-03-23T00:00:30.676
+Chat Server is running
+
+null is disconnected
+Chat Server is disconnected
+,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-23 00:02:06 is connected
+Content:null
+
+,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:0,Date:2018-03-23 00:02:06 is disconnected
+Chat Server is disconnected
+null is connected
+Content:null
+
+null is disconnected
+Chat Server is disconnected
+A is connected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+null is connected
+Content:null
+
+null is disconnected
+Chat Server is disconnected
+2018-03-23T09:25:52.174
+Chat Server is running
+2018-03-23T09:58:35.952
+Chat Server is running
+C is connected
+Content:asd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 09:58:50
+From clientC:asd
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:s
+Content:wewqe,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-03-23 09:58:50
+From clientC:wewqe
+Content:sad,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 09:58:50
+From clientC:sad
+Content:ae,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 09:58:50
+From clientC:ae
+Content:w,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:w
+Content:q,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:q
+Content:e,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:e
+Content:r,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:r
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:s
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:f
+Content:c,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:c
+Content:b,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 09:58:50
+From clientC:b
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+
+null is disconnected
+Chat Server is disconnected
+C is connected
+Content:df,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:02:01
+From clientC:df
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+2018-03-23T10:02:52.613
+Chat Server is running
+C is connected
+Content:sd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:03:12
+From clientC:sd
+Content:we,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:03:12
+From clientC:we
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+A is connected
+Content:d,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 10:04:45
+From clientA:d
+Content:ds,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:04:45
+From clientA:ds
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+C is connected
+Content:sa,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:07:09
+From clientC:sa
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+Content:sd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:07:51
+From clientC:sd
+Content:f,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 10:07:51
+From clientC:f
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+Content:sd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-23 10:09:44
+From clientC:sd
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:sdsd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-03-23 10:12:23
+From clientC:sdsd
+Content:Vote,Abort
+From clientA:Vote
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-23 10:15:57
+From clientC:s
+Content:Vote,Abort
+From clientA:Vote
+Content:Vote,Abort
+From clientA:Vote
+Content:Vote,Commit
+From clientA:Vote
+Content:Vote,Commit
+From clientA:Vote
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:fhf,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 10:30:23
+From clientC:fhf
+Content:Vote,Abort
+From clientA:Vote
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:fhg,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 10:33:08
+From clientC:fhg
+Content:Vote,Abort
+From clientA:Vote
+Content:Vote,Commit
+From clientA:Vote
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+Content:gjh,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 10:35:33
+From clientC:gjh
+Content:Vote,Abort
+From clientA:Vote
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:hfgh,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-03-23 10:38:03
+From clientC:hfgh
+Content:Vote,Abort
+From clientA:Vote
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:sddf,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-03-23 10:42:53
+From clientC:sddf
+Content:VoteAbort
+From clientA:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+B is connected
+D is connected
+Content:dfg,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 11:15:24
+From clientC:dfg
+Content:VoteAbort
+From clientD:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:VoteAbort
+From clientA:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:VoteAbort
+From clientB:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:VoteCommit
+From clientB:VoteCommit
+Content:VoteCommit
+From clientA:VoteCommit
+Content:VoteCommit
+From clientD:VoteCommit
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+D is disconnected
+Chat Server is disconnected
+A is connected
+B is connected
+D is connected
+Content:fhg,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 11:15:24
+From clientC:fhg
+Content:VoteCommit
+From clientB:VoteCommit
+Content:VoteCommit
+From clientA:VoteCommit
+Content:VoteCommit
+From clientD:VoteCommit
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+D is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+B is connected
+D is connected
+Content:asd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 11:26:28
+From clientC:asd
+Content:VoteCommit
+From clientD:VoteCommit
+Content:VoteCommit
+From clientB:VoteCommit
+Content:VoteCommit
+From clientA:VoteCommit
+Content:VoteAbort
+From clientA:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:VoteAbort
+From clientA:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:VoteAbort
+From clientA:VoteAbort
+Content:gAbort
+From clientC:gAbort
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+D is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+C is connected
+A is connected
+Content:ghjjh,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-03-23 11:32:30
+From clientC:ghjjh
+Content:VoteCommit
+From clientA:VoteCommit
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+null is connected
+Content:null
+
+null is disconnected
+Chat Server is disconnected
+Coordinator is connected
+A is connected
+Content:asd,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-03-23 11:35:26
+From clientCoordinator:asd
+Content:VoteCommit
+From clientA:VoteCommit
+2018-03-24T19:59:55.656
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+D is connected
+Content:s,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-24 20:00:17
+From clientCoordinator:s
+Content:VoteCommit
+From clientA:VoteCommit
+Content:VoteCommit
+From clientB:VoteCommit
+Content:VoteCommit
+From clientD:VoteCommit
+Content:gfgh,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-03-24 20:00:17
+From clientCoordinator:gfgh
+Content:VoteAbort
+From clientA:VoteAbort
+Content:gAbort
+From clientCoordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+Chat Server is disconnected
+Content:null
+
+D is disconnected
+Chat Server is disconnected
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Coordinator is connected
+A is connected
+ClientB is connected
+ClientD is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-24 20:05:03
+From clientCoordinator:hi
+Content:VoteCommit
+From clientClientB:VoteCommit
+Content:VoteCommit
+From clientA:VoteCommit
+Content:VoteCommit
+From clientClientD:VoteCommit
+Content:gCommit
+From clientCoordinator:gCommit
+Content:null
+
+Coordinator is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientB is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientD is disconnected
+Chat Server is disconnected
+2018-03-24T21:29:46.100
+Chat Server is running
+Coordinator is connected
+ClientA is connected
+ClientB is connected
+ClientC is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-24 21:30:07
+From: Coordinator:hi
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-24 21:30:45
+From: ClientB:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-24 21:31:02
+From: ClientC:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-24 21:30:29
+From: ClientA:VoteCommit
+Content:gCommit
+From: Coordinator:gCommit
+Content:null
+
+ClientB is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientC is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientA is disconnected
+Chat Server is disconnected
+2018-03-24T21:47:08.513
+Chat Server is running
+C is connected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Coordinator is connected
+ClientA is connected
+ClientB is connected
+ClientC is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-24 21:48:32
+From: Coordinator:hi
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-24 21:49:09
+From: ClientB:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-24 21:48:50
+From: ClientA:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-24 21:49:25
+From: ClientC:VoteCommit
+Content:gCommit
+From: Coordinator:gCommit
+Content:null
+
+Coordinator is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientA is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientB is disconnected
+Chat Server is disconnected
+Content:null
+
+ClientC is disconnected
+Chat Server is disconnected
+2018-03-25T00:56:25.390
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-25 00:56:44
+From: Coordinator:hi
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 00:57:12
+From: A:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 00:57:26
+From: B:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 00:57:26
+From: B:VoteCommit
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+Coordinator is disconnected
+Chat Server is disconnected
+null is connected
+Content:null
+
+null is disconnected
+Chat Server is disconnected
+Coordinator is connected
+ClientA is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-25 01:04:21
+From: Coordinator:hi
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 01:04:38
+From: ClientA:VoteCommit
+Content:null
+
+Coordinator is disconnected
+Chat Server is disconnected
+2018-03-25T01:17:10.366
+Chat Server is running
+A is connected
+B is connected
+C is connected
+Coordinator is connected
+Content:hi,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-25 01:18:28
+From: Coordinator:hi
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 01:17:53
+From: B:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 01:17:22
+From: A:VoteCommit
+Content:VoteCommit,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-25 01:18:10
+From: C:VoteCommit
+Content:gCommit
+From: Coordinator:gCommit
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-03-27T01:24:55.897
+Chat Server is running
+Coordinator is connected
+A is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+B is connected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+Content:hiGET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-27 01:25:16
+From: Coordinator:hiGET /localhost/server http/1.1
+Content:VoteCommitPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-27 01:29:31
+From: A:VoteCommitPOST /localhost/server http/1.1
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-03-28T19:37:45.832
+Chat Server is running
+Coordinator is connected
+127.0.0.1 is connected
+A is connected
+Content:null
+
+127.0.0.1 is disconnected
+ Server is disconnected
+B is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+C is connected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-03-28T20:07:28.898
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-28 20:24:27
+From: Coordinator:hi
+Content:VoteCommitPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-28 20:24:43
+From: A:VoteCommitPOST /localhost/server http/1.1
+Content:VoteCommitPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-28 20:24:55
+From: B:VoteCommitPOST /localhost/server http/1.1
+Content:VoteCommitPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-28 20:25:16
+From: C:VoteCommitPOST /localhost/server http/1.1
+Content:gCommit
+From: Coordinator:gCommit
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-28 20:24:27
+From: Coordinator:hi
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-28 20:24:27
+From: Coordinator:hi
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-28 20:24:27
+From: Coordinator:hi
+Content:VoteCommitPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-28 20:24:43
+From: A:VoteCommitPOST /localhost/server http/1.1
+Content:gCommit
+From: Coordinator:gCommit
+Content:VoteCommitPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-28 20:24:55
+From: B:VoteCommitPOST /localhost/server http/1.1
+Content:VoteAbortPOST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-03-28 20:25:16
+From: C:VoteAbortPOST /localhost/server http/1.1
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+2018-03-28T21:49:11.125
+Chat Server is running
+A is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+2018-03-29T00:13:31.990
+Chat Server is running
+Coordinator is connected
+A is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-29 00:14:30
+From: A:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-29 00:13:55
+From: Coordinator:gAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-29 00:13:49
+From: Coordinator:gAbort
+B is connected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-03-30T15:58:37.382
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:28
+From: A:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:13
+From: Coordinator:gAbort
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:50
+From: B:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:13
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:00:04
+From: C:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:13
+From: Coordinator:gAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:07
+From: Coordinator:gAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:07
+From: Coordinator:gAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 15:59:07
+From: Coordinator:gAbort
+2018-03-30T16:09:21.370
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:10:02
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:09:50
+From: A:VoteAbort
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:10:16
+From: B:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:09:50
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:10:30
+From: C:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:09:50
+From: Coordinator:gAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:09:43
+From: Coordinator:gAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:09:43
+From: Coordinator:gAbort
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+2018-03-30T16:21:54.976
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:22:32
+From: A:VoteAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:22:47
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:23:02
+From: C:VoteAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:27:21
+From: A:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:27:05
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:27:40
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:27:51
+From: C:VoteAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-03-30T16:58:34.396
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:59:07
+From: A:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:58:52
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:59:26
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 16:59:41
+From: C:VoteAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-30 17:17:43
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 17:18:11
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 17:18:26
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 17:18:38
+From: C:VoteCommit
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 17:17:43
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+2018-03-30T18:11:04.050
+Chat Server is running
+Coordinator is connected
+A is connected
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-30 18:11:16
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 18:11:38
+From: A:VoteCommit
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-30 18:11:10
+From: Coordinator:gAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+2018-03-31T17:30:30.073
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-31 17:31:06
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:31:27
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:32:01
+From: C:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:31:44
+From: B:VoteCommit
+Content:gCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:31:06
+From: Coordinator:gCommit
+Content:hello,GET /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-03-31 17:31:06
+From: Coordinator:hello
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-03-31 17:31:27
+From: A:VoteAbort
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:31:06
+From: Coordinator:gAbort
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:32:01
+From: C:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:31:44
+From: B:VoteCommit
+Content:gAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:30:59
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+2018-03-31T17:40:41.988
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-03-31 17:41:05
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:41:15
+From: A:VoteCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-03-31 17:40:46
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+2018-04-01T18:29:11.003
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:29:42
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:29:27
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:29:59
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:30:15
+From: C:VoteAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-01 18:29:27
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:29:47
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:30:05
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:30:20
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:29:27
+From: Coordinator:gCommit
+
+Coordinator is disconnected
+ Server is disconnected
+Coordinator is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-01 18:46:59
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:29:47
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:30:05
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:30:20
+From: C:VoteCommit
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:52:05
+From: A:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:52:23
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:52:38
+From: C:VoteAbort
+null is connected
+Content:null
+
+null is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+C is connected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 18:58:51
+From: A:VoteAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:03:35
+From: A:VoteAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:10:55
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:10:43
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-01 19:10:43
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:10:37
+From: Coordinator:gAbort
+null is connected
+Content:null
+
+null is disconnected
+ Server is disconnected
+null is connected
+Content:null
+
+null is disconnected
+ Server is disconnected
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-01 19:10:43
+From: Coordinator:hello
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-01 19:11:00
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:10:43
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:10:37
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-01 19:10:43
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:10:37
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-01 19:26:12
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:26:08
+From: Coordinator:gAbort
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:28:07
+From: B:VoteAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-01 19:26:12
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:26:37
+From: A:VoteCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:26:08
+From: Coordinator:gAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Coordinator is connected
+null is connected
+Content:null
+
+null is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-01 19:37:53
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:38:16
+From: A:VoteCommit
+Content:hi,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-01 19:38:16
+From: A:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:37:45
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:37:45
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:37:45
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 19:37:45
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+2018-04-01T21:19:01.927
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:19:13
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:19:28
+From: Coordinator:gAbort
+
+Coordinator is disconnected
+ Server is disconnected
+From: A:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:19:52
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:20:05
+From: C:VoteAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:16
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:04
+From: A:VoteAbort
+From: Coordinator:gAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-01 21:27:04
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:21
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:35
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:52
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:04
+From: Coordinator:gCommit
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-01 21:27:04
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:27:21
+From: A:VoteCommit
+Content:Hey what is your state,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:22,Date:2018-04-01 21:27:21
+From: A:Hey what is your state
+Content:COMMIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-01 21:27:35
+From: B:COMMIT
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:26:58
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:26:58
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-01 21:26:58
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+2018-04-02T12:32:08.933
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 12:32:43
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 12:33:02
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 12:33:23
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 12:33:39
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 12:32:43
+From: Coordinator:gCommit
+
+Coordinator is disconnected
+ Server is disconnected
+2018-04-02T14:52:53.563
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:53:53
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:53:41
+From: A:VoteAbort
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:54:07
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:54:25
+From: C:VoteAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 14:53:41
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:53:59
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:54:14
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:54:33
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:53:41
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 14:53:41
+From: Coordinator:hi
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 14:53:59
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 14:53:41
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 15:03:16
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:03:52
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:03:40
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:04:23
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:03:16
+From: Coordinator:gCommit
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:08:05
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:07:52
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:08:24
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:08:41
+From: C:VoteAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 15:07:52
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:08:14
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:08:29
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:08:46
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:07:52
+From: Coordinator:gCommit
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 15:07:52
+From: Coordinator:hello
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 15:08:14
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 15:07:52
+From: Coordinator:gAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-04-02T16:13:33.304
+Chat Server is running
+coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:14:32
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:14:20
+From: coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:14:45
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:15:06
+From: C:VoteAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 16:14:20
+From: coordinator:hello
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 16:14:20
+From: coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:14:14
+From: coordinator:gAbort
+Content:null
+
+B is disconnected
+ Server is disconnected
+D is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 16:14:20
+From: coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:14:14
+From: coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:18:57
+From: D:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:14:20
+From: coordinator:gAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 16:14:20
+From: coordinator:hello
+Content:null
+
+coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+D is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:41
+Content:gAbort, POST/localhost/server http/1.1,Host:127.00.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:26
+From: A:VoteAbort
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.00.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 16:21:26
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:48
+From: A:VoteCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:18
+From: Coordinator:gAbort
+Content:what is your state?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:19,Date:2018-04-02 16:21:48
+From: A:what is your state?
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:18
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:18
+From: Coordinator:gAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:21:18
+From: Coordinator:gAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-02 16:30:59
+From: Coordinator:hey
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:31:17
+From: A:VoteCommit
+Content:what is your state?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:19,Date:2018-04-02 16:31:17
+From: A:what is your state?
+Content:INIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-04-02 16:31:32
+From: B:INIT
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 16:30:53
+From: Coordinator:gAbort
+Content:COMMIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-02 16:31:51
+From: C:COMMIT
+Content:null
+
+C is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-04-02T19:23:56.465
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:25
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:06
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:44
+From: B:VoteAbort
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-02 19:26:06
+From: Coordinator:hey
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:33
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:51
+From: B:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:06
+From: Coordinator:gCommit
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-02 19:26:06
+From: Coordinator:hey
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:33
+From: A:VoteCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:25:56
+From: Coordinator:gAbort
+Content:What is your state?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:19,Date:2018-04-02 19:26:33
+From: A:What is your state?
+Content:INIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-04-02 19:26:51
+From: B:INIT
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 19:26:06
+From: Coordinator:hello
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 19:34:19
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:06
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 19:26:06
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:34:19
+From: A:VoteCommit
+Content:What is your status?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:20,Date:2018-04-02 19:34:19
+From: A:What is your status?
+Content:INIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-04-02 19:34:49
+From: B:INIT
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:25:56
+From: Coordinator:gAbort
+Content:COMMIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-02 19:34:49
+From: B:COMMIT
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 19:26:06
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:34:19
+From: A:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:26:06
+From: Coordinator:gCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:34:49
+From: B:VoteCommit
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:39:40
+From: A:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:39:57
+From: B:VoteAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:57:58
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:57:46
+From: A:VoteAbort
+From: coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:58:11
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:58:22
+From: C:VoteAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 19:57:46
+From: coordinator:hello
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 19:57:41
+From: coordinator:gAbort
+Content:null
+
+coordinator is disconnected
+ Server is disconnected
+2018-04-02T20:14:11.216
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:28
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:16
+From: A:VoteAbort
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:39
+From: B:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:50
+From: C:VoteAbort
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-02 20:15:16
+From: Coordinator:hey
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:33
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:44
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:55
+From: C:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:16
+From: Coordinator:gCommit
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 20:15:16
+From: Coordinator:hello
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 20:15:33
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:16
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 20:15:16
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:33
+From: A:VoteCommit
+Content:what is your state?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:19,Date:2018-04-02 20:15:33
+From: A:what is your state?
+Content:INIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-04-02 20:15:44
+From: B:INIT
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:15:08
+From: Coordinator:gAbort
+Content:COMMIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-02 20:15:44
+From: B:COMMIT
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+A is connected
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-02 20:15:16
+From: Coordinator:hey
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 20:25:07
+From: A:VoteCommit
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-04-02T22:38:16.751
+Chat Server is running
+Coordinator is connected
+A is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 22:38:32
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 22:38:47
+From: A:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 22:38:32
+From: Coordinator:gCommit
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:06:46
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:07:28
+From: B:VoteCommit
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-02 23:21:45
+From: Coordinator:hey
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:22:02
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:22:13
+From: B:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:21:45
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:21:45
+From: Coordinator:hi
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:21:45
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:21:40
+From: Coordinator:gAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 23:21:45
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:22:02
+From: A:VoteCommit
+Content:what is your state,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:18,Date:2018-04-02 23:22:02
+From: A:what is your state
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:21:40
+From: Coordinator:gAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:28:04
+From: A:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:29:05
+From: B:VoteAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:21:45
+From: Coordinator:hi
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 23:28:42
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:21:45
+From: Coordinator:gAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:32:31
+From: A:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:32:48
+From: B:VoteAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:38:03
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:37:52
+From: Coordinator:gAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:38:14
+From: B:VoteAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:41:13
+From: A:VoteAbort
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:41:24
+From: B:VoteAbort
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:24
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:14
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:44:14
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:41
+From: B:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:29
+From: A:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:14
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:44:14
+From: Coordinator:hi
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 23:44:41
+From: B:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:14
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:44:14
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:41
+From: B:VoteCommit
+Content:what is your state,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:18,Date:2018-04-02 23:44:41
+From: B:what is your state
+Content:INIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-04-02 23:44:29
+From: A:INIT
+Content:READY,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 23:44:29
+From: A:READY
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:29
+From: A:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:44:14
+From: Coordinator:gCommit
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:48:28
+From: A:VoteAbort
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-04-02T23:50:05.223
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:23
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:12
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:50:12
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:06
+From: Coordinator:gAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 23:50:12
+From: Coordinator:hello
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:27
+From: A:VoteCommit
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:47
+From: B:VoteCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:12
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:50:12
+From: Coordinator:hi
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-02 23:50:27
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:12
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-02 23:50:12
+From: Coordinator:hi
+Content:VoteCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:27
+From: A:VoteCommit
+Content:state?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-02 23:50:27
+From: A:state?
+Content:Ready,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-02 23:50:47
+From: B:Ready
+Content:COMMIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-02 23:50:47
+From: B:COMMIT
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-02 23:50:06
+From: Coordinator:gAbort
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+2018-04-25T13:33:22.309
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:57
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:gAbort
+Content:april, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-25 13:33:43
+From: Coordinator:april
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:02
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:21
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:33
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:02
+From: A:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:33
+From: C:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:21
+From: B:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:gCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:35
+From: Coordinator:gCommit
+Content:april25, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:7,Date:2018-04-25 13:33:43
+From: Coordinator:april25
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:02
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:21
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:33
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:ack
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:35
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-25 13:33:43
+From: Coordinator:hi
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-25 13:34:02
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-25 13:33:43
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:02
+From: A:VotePreCommit
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-25 13:34:33
+From: C:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-25 13:33:43
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:02
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:33
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:43
+From: Coordinator:ack
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:34:21
+From: B:VotePreCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-25 13:33:35
+From: Coordinator:gCommit
+2018-04-29T17:51:14.008
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:46
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:54:02
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:52:02
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:46
+From: B:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:54:02
+From: C:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:52:02
+From: Coordinator:gCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:54:02
+From: C:VotePreCommit
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-29 17:53:46
+From: B:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:52:02
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:54:02
+From: C:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:46
+From: B:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:52:02
+From: Coordinator:ack
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VotePreCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VotePreCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-29 17:52:02
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:46
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:54:02
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:52:02
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:53:27
+From: A:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-29 17:51:53
+From: Coordinator:gCommit
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+2018-04-30T13:12:41.247
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 13:15:15
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 13:14:40
+From: A:VoteAbort
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 13:14:40
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 13:15:20
+From: A:VotePreCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 13:14:14
+From: Coordinator:gAbort
+Content:state?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:6,Date:2018-04-30 13:15:20
+From: A:state?
+Content:INIT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:4,Date:2018-04-30 13:15:38
+From: B:INIT
+Content:ABORT,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-30 13:15:38
+From: B:ABORT
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Content:null
+
+C is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+V is connected
+Content:null
+
+V is disconnected
+ Server is disconnected
+B is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 13:41:41
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 13:41:29
+From: A:VoteAbort
+From: Coordinator:gAbort
+2018-04-30T16:18:55.411
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+C is connected
+Content:VoteAbort,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:01
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 16:22:47
+From: Coordinator:hi
+Content:VoteAbort,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:9,Date:2018-04-30 16:23:06
+From: A:VoteAbort
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:gAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-30 16:22:47
+From: Coordinator:hello
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 16:22:47
+From: Coordinator:hi
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gAbort
+Content:hello, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:5,Date:2018-04-30 16:22:47
+From: Coordinator:hello
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:22
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:38
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:ack
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 16:22:47
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:22
+From: B:VotePreCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gAbort
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 16:22:47
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:22
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:38
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:22
+From: B:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:38
+From: C:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:gCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gCommit
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 16:22:47
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:22
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:38
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gCommit
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-30 16:22:47
+From: Coordinator:hey
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VotePreCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gAbort
+Content:hey, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:3,Date:2018-04-30 16:22:47
+From: Coordinator:hey
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:22
+From: B:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:38
+From: C:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:22:47
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:23:06
+From: A:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 16:21:51
+From: Coordinator:gCommit
+2018-04-30T20:13:24.535
+Chat Server is running
+Coordinator is connected
+A is connected
+B is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 20:13:39
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:14:00
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:14:22
+From: B:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:13:39
+From: Coordinator:ack
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:14:00
+From: A:VoteAck
+Content:VoteAck,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:14:22
+From: B:VoteAck
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:13:39
+From: Coordinator:gCommit
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:13:34
+From: Coordinator:gCommit
+Content:null
+
+Coordinator is disconnected
+ Server is disconnected
+Content:null
+
+A is disconnected
+ Server is disconnected
+Content:null
+
+B is disconnected
+ Server is disconnected
+Coordinator is connected
+A is connected
+B is connected
+Content:hi, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-04-30 20:21:42
+From: Coordinator:hi
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:22:00
+From: A:VotePreCommit
+Content:VotePreCommit,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:22:11
+From: B:VotePreCommit
+Content:ack, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:21:42
+From: Coordinator:ack
+Content:gCommit, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:21:37
+From: Coordinator:gCommit
+Content:gAbort, POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-04-30 20:21:37
+From: Coordinator:gAbort
+2018-04-30T21:32:09.308
+Chat Server is running
